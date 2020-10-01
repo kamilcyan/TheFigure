@@ -1,0 +1,11 @@
+D:\vs19 trening\ConsoleApp11\ConsoleApp11\bin\Debug\netcoreapp3.1\ConsoleApp11.exe
+D:\vs19 trening\ConsoleApp11\ConsoleApp11\bin\Debug\netcoreapp3.1\ConsoleApp11.deps.json
+D:\vs19 trening\ConsoleApp11\ConsoleApp11\bin\Debug\netcoreapp3.1\ConsoleApp11.runtimeconfig.json
+D:\vs19 trening\ConsoleApp11\ConsoleApp11\bin\Debug\netcoreapp3.1\ConsoleApp11.runtimeconfig.dev.json
+D:\vs19 trening\ConsoleApp11\ConsoleApp11\bin\Debug\netcoreapp3.1\ConsoleApp11.dll
+D:\vs19 trening\ConsoleApp11\ConsoleApp11\bin\Debug\netcoreapp3.1\ConsoleApp11.pdb
+D:\vs19 trening\ConsoleApp11\ConsoleApp11\obj\Debug\netcoreapp3.1\ConsoleApp11.csprojAssemblyReference.cache
+D:\vs19 trening\ConsoleApp11\ConsoleApp11\obj\Debug\netcoreapp3.1\ConsoleApp11.AssemblyInfoInputs.cache
+D:\vs19 trening\ConsoleApp11\ConsoleApp11\obj\Debug\netcoreapp3.1\ConsoleApp11.AssemblyInfo.cs
+D:\vs19 trening\ConsoleApp11\ConsoleApp11\obj\Debug\netcoreapp3.1\ConsoleApp11.dll
+D:\vs19 trening\ConsoleApp11\ConsoleApp11\obj\Debug\netcoreapp3.1\ConsoleApp11.pdb
